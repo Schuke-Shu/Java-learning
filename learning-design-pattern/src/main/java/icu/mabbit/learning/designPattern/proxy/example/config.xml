@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <className>icu.mabbit.learning.designPattern.proxy.example.ProxySearcher</className>
+</config>
