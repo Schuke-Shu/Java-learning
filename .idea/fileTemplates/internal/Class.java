@@ -3,7 +3,6 @@
 /**
  * <h2></h2>
  *
- * @Module
  * @Date ${DATE} ${TIME}
  */
 public class ${NAME}
